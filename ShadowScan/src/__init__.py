@@ -1,2 +1,0 @@
-# ShadowScan
-# Author: Noah Mordan
